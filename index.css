@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'San Francisco', 'Avenir', 'Helvetica Neue', sans-serif;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: #2F3035;
+}
+
+.default-width {
+    max-width: 1451px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+header{
+    text-align: center;
+    margin: 20px auto;
+    
+}
+
+div a {
+    margin: 1.5%;
+    font-size: 15px;
+}
+.active{
+    color: #0e0e0e ;
+}
+.middle h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+}
+.middle  p{
+    margin-top: 20px;
+}
